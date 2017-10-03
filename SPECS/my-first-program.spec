@@ -1,5 +1,5 @@
 Name:		my-first-program
-Version:	1.0
+Version:	2.0
 Release:	2
 Summary:	My first rpm
 
