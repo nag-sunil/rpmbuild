@@ -1,6 +1,6 @@
 Name:		my-first-program
 Version:	1.0
-Release:	1
+Release:	2
 Summary:	My first rpm
 
 Group:		Application
